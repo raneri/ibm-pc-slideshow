@@ -4,3 +4,5 @@ Slideshow of MDA textual "screenshots", for the original IBM PC and other classi
 See more on https://www.mupin.it/demo-ibm-pc-5150/ (in italian)
 
 This is a project written for the MuPIn (Museo Piemontese dell'Informatica) non-profit association. It is used to exhibit some historical software screens to the public.
+
+Open source project released under GPL 3.0. Feel free to use it for your projects. You're welcome to contribute to the repository!
